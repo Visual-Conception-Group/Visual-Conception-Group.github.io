@@ -1,56 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>VCG - Team</title>
-  <meta name="description" content="VCG: Team members">
-  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/team/">
-<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="http://localhost:4000/">Visual Conception Group @ IIIT Delhi</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">About Us</a></li>
-		<li><a href="http://localhost:4000/team">Team</a></li>
-		<!-- <li><a href="http://localhost:4000/vacancies">Vacancies</a></li> -->
-		<li><a href="http://localhost:4000/publications">Research</a></li>
-		<!-- <li><a href="http://localhost:4000/research">Research</a></li> -->
-		<li><a href="http://localhost:4000/sponsored_projects">Sponsored Projects</a></li>
-
-		<li><a href="http://localhost:4000/resources">Resources</a></li>
-		<!-- <li><a href="http://localhost:4000/pictures">(Pics)</a></li> -->
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="gridid" class="col-sm-12">
-  <h1 id="group-members">Group Members</h1>
+I"W&<h1 id="group-members">Group Members</h1>
 
 <p><!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)](http://localhost:4000/vacancies) **!** --></p>
 
@@ -213,7 +161,7 @@
     <ul style="overflow: hidden">
 
   
-  <li> <em> Thesis: </em> Unsupervised Vehicle Synthesis and Re-Identification </li>
+  <li> Thesis: Unsupervised Vehicle Synthesis and Re-Identification </li>
   
 
   
@@ -250,7 +198,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/ambuj.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Ambuj Mehrish</h4>
-    <p>Graduated in 2020, Now doing Postdoc at SUTD, Singapore <br /> <em> Thesis: </em> Estimation and Concealment of Forensic Multimedia Signatures <br /></p>
+    <p>Graduated in 2020, Now doing Postdoc at SUTD, Singapore <br /> Thesis: Estimation and Concealment of Forensic Multimedia Signatures <br /></p>
 
     <ul style="overflow: hidden">
 
@@ -260,7 +208,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/kajal.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Kajal Kansal</h4>
-    <p>Graduated in 2021, Now doing Postdoc at NUS, Singapore <br /> <em> Thesis: </em> Modality Guided Representation Learning for Person Re-identification <br /></p>
+    <p>Graduated in 2021, Now doing Postdoc at NUS, Singapore <br /> Thesis: Modality Guided Representation Learning for Person Re-identification <br /></p>
 
     <ul style="overflow: hidden">
 
@@ -276,7 +224,7 @@
   <div class="col-sm-6 clearfix">
     <h4>Ansh Arora</h4>
     <ul style="overflow: hidden">
-  <li><em> Thesis: </em> Unsupervised Video representation Learning </li>
+  <li> Thesis: Unsupervised Video representation Learning </li>
   </ul>
   </div>
 
@@ -338,7 +286,7 @@
 
 </div>
 
-<h2 id="former-btech-thesis-students">Former BTech Thesis students</h2>
+<h2 id="former-btech-thesis-students">Former BTech thesis students</h2>
 
 <div class="row">
 
@@ -492,54 +440,4 @@ Harsh Pathak and Shreedhar Govil
 
 <!-- ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <!-- <p>&copy 2016 Allan Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="http://localhost:4000/aboutwebsite.html">copy and  modify it for your own research group.</a></p> -->
-		  <p>&copy 2022 VC Group. Site made with <a href="https://jekyllrb.com">Jekyll</a></p>
-		  <br />
-		  <br />
-		  <br />
-		  <br />
-              <p>We are part of the <a href="https://www.iiitd.ac.in/">Indraprastha Institute of Information Technology Delhi</a></p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  <!-- Funding:<br />
-		  - <a href="http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme">Vidi </a> and <a href='https://www.fom.nl/en/news/press-releases/2016/11/18/28634/'>Projectruimte</a> grants from <a href="http://www.nwo.nl">NWO</a> <br />
-		  - <a href="https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront">Frontier of Nanosciences</a>, a gravity program from <a href="http://www.nwo.nl">NWO</a>
-          - <a href='https://www.universiteitleiden.nl/en/news/2017/08/two-erc-grants-for-leiden-physics'>ERC starting grant</a> -->
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  B-611, R&D Block<br />
-		  Indraprastha Institute of Information Technology <br />
-		  Delhi Okhla Industrial Estate, Phase III<br />
-		  New Delhi, India - 110020 <br />
-            (<a href="https://goo.gl/maps/ehpdTjcbu2pUCLr18">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
