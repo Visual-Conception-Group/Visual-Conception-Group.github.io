@@ -1,17 +1,29 @@
-- name: Dibyendu Roy
+# - name: Dibyendu Roy
+#   thesis: 
 
-- name: Harsh Jain
+- name: Harsh Kumar Jain
+  thesis: Pose Disentangled Person Re-identification
 
 - name: Sagar Gupta
+  thesis: Unsupervised Cross Domain Human Image Synthesis for Person Re-identification
 
 - name: Arjun Tyagi
+  thesis: Channel Regularized Visual Object Tracking
 
 - name: Divya Sitani
+  thesis: Visual Tracking using Analysis Dictionary Learning
 
 - name: Shobhita Saxena
+  thesis: Video Inpainting Detection using Inconsistencies in Optical Flow
 
 - name: Shah Meet Harshadbhai
+  thesis: 
 
-- name: Ayush Gupta
+# - name: Ayush Gupta
+#   thesis: 
 
-- name: Darshan Sharma
+# - name: Darshan Sharma
+#   thesis:
+
+- name: Shivani Mamodia
+  thesis: Post Silicon Validation using Regression

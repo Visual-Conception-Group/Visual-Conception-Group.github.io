@@ -142,7 +142,7 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 
 ## Master Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.current_mtech %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -152,11 +152,11 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <!-- <i>{{ member.info }} <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li> Thesis: {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
@@ -194,7 +194,7 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 {% endif %}
 
 
-## Alumni
+## Former PhD Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -208,9 +208,7 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.duration }} <br> Role: {{ member.info }} <br />
-  Thesis: {{ member.title }} <br />
-  Area: {{ member.area }}
+  {{ member.duration }} <br> Thesis: {{ member.title }} <br />
 
   <ul style="overflow: hidden">
 
@@ -230,6 +228,38 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 </div>
 {% endif %}
 
+## UG Thesis
+
+{% assign number_printed = 0 %}
+{% for member in site.data.current_btech %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <ul style="overflow: hidden">
+  <li> Thesis: {{ member.thesis }} </li>
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 ## Former visitors, BTech/ MTech students
 <div class="row">
 
@@ -244,6 +274,9 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 <h4>Master students</h4>
 {% for member in site.data.alumni_mtech %}
 {{ member.name }}
+<ul style="overflow: hidden">
+<li> Thesis: {{ member.thesis }} </li>
+</ul>
 {% endfor %}
 </div>
 
@@ -251,6 +284,9 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_btech %}
 {{ member.name }}
+<ul style="overflow: hidden">
+<li> Thesis: {{ member.thesis }} </li>
+</ul>
 {% endfor %}
 </div>
 

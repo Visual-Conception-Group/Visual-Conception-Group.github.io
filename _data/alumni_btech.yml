@@ -1,1 +1,23 @@
-# - name: BTech Student
+- name: Kunal Saini
+  thesis: Airborne Visual Tracking and Re-identification
+
+- name: Mohammad Nayeem
+  thesis: Efficient Surveillance Video Compression using Dictionary Learning
+
+- name: Kunal Sharma and Vipin Chaudhary
+  thesis: Semi Dense Adversarial LSTM for Unsupervised Video Summarization
+
+- name: Neelabhro Roy
+  thesis: Metric Learning for Object Recognition
+
+- name: Siddharth Dhawan
+  thesis: Unsupervised Domain Adaptation for Person Re-identification
+
+- name: Priysha Aggarwal and Kshitiz Jain
+  thesis: Unsupervised Learning of Low Rank Subspace Projection using Graph Embedding
+
+- name: Harsh Pathak and Shreedhar Govil
+  thesis: Deepfake Video Detection
+
+# - name:
+#   thesis:
