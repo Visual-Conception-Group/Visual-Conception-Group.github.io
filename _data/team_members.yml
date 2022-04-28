@@ -1,0 +1,34 @@
+- name: Monika Jain
+  photo: bio-photo.jpg
+  info: PhD Student
+  email: xyz@email.com
+  number_educ: 1
+  education1: Master/Bachelor Institution
+
+- name: Astha Verma
+  photo: bio-photo.jpg
+  info: PhD Student
+  email: xyz@email.com
+  number_educ: 1
+  education1: Master/Bachelor Institution
+
+- name: Himanshu Singh
+  photo: bio-photo.jpg
+  info: PhD Student
+  email: xyz@email.com
+  number_educ: 1
+  education1: Master/Bachelor Institution
+
+- name: Mohammad Ali Jauhar
+  photo: bio-photo.jpg
+  info: Research Assistant
+  email: xyz@email.com
+  number_educ: 1
+  education1: Master/Bachelor Institution
+
+- name: Divij Gera
+  photo: bio-photo.jpg
+  info: Research Assistant
+  email: xyz@email.com
+  number_educ: 1
+  education1: Master/Bachelor Institution
