@@ -1,34 +1,35 @@
 - name: Monika Jain
-  photo: bio-photo.jpg
-  info: PhD Student
+  photo: monika.jpeg
+  info: PhD Student, started July 2016
   email: xyz@email.com
   number_educ: 1
-  education1: Master/Bachelor Institution
+  education1: Joint PhD with QUT, Brisbane, with Prof Shridharan and Prof Fookes
 
 - name: Astha Verma
-  photo: bio-photo.jpg
-  info: PhD Student
+  photo: astha.jpeg
+  info: PhD Student, started July 2018
   email: xyz@email.com
-  number_educ: 1
-  education1: Master/Bachelor Institution
+  number_educ: 2
+  education1: Co-Guide, Dr Rajiv Ratn Shah, IIIT Delhi
+  education2: MTech, NIT Delhi
 
 - name: Himanshu Singh
-  photo: bio-photo.jpg
-  info: PhD Student
+  photo: himanshu.jpeg
+  info: PhD Student, started June 2021
   email: xyz@email.com
   number_educ: 1
-  education1: Master/Bachelor Institution
+  education1: BTech, IP University Delhi
 
 - name: Mohammad Ali Jauhar
-  photo: bio-photo.jpg
+  photo: jauhar.jpg
   info: Research Assistant
   email: xyz@email.com
   number_educ: 1
-  education1: Master/Bachelor Institution
+  education1: BTech, Aligarh Muslim University
 
 - name: Divij Gera
-  photo: bio-photo.jpg
+  photo: divij.jpeg
   info: Research Assistant
   email: xyz@email.com
   number_educ: 1
-  education1: Master/Bachelor Institution
+  education1: BTech, Netaji Subhash University of Technology, Delhi 

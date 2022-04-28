@@ -12,13 +12,13 @@
   photo: bio-photo.jpg
   info: Master student
   email: xyz@email.com
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: "Thesis: Unsupervised Vehicle Synthesis and Re-Identification"
 
 - name: Dipankar Sarkar
   photo: bio-photo.jpg
   info: Master student
   email: xyz@email.com
   number_educ: 0
-  education1:
+  education1: 
 

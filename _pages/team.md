@@ -208,7 +208,10 @@ Jump to [PI](#PI), [Researchers](#researchers), [master students](#master-studen
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  {{ member.duration }} <br> Role: {{ member.info }} <br />
+  Thesis: {{ member.title }} <br />
+  Area: {{ member.area }}
+
   <ul style="overflow: hidden">
 
   </ul>

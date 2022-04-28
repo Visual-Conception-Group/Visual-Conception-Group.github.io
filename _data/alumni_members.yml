@@ -1,16 +1,20 @@
 - name: Ambuj Mehrish
-  photo: bio-photo.jpg
-  info: PhD student <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
-  duration: In IIITD from DATE to DATE, now WHERE
+  photo: ambuj.jpeg
+  info: PhD Student
+  duration: Graduated in 2020, Now doing Postdoc at SUTD, Singapore
+  area: Image Processing
+  title: Estimation and Concealment of Forensic Multimedia Signatures
   email: xyz@email.com
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
   education2: Masters Institute
 
 - name: Kajal Kansal
-  photo: bio-photo.jpg
-  info: PhD student
-  duration: In IIITD from DATE to DATE, now WHERE
+  photo: kajal.jpeg
+  info: PhD Student
+  duration: Graduated in 2021, Now doing Postdoc at NUS, Singapore
+  area: Computer Vision and Machine Learning
+  title: Modality Guided Representation Learning for Person Re-identification
   email: xyz@email.com
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
