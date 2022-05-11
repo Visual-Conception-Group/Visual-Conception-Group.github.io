@@ -1,3 +1,37 @@
+# - title: ""
+#   image: 
+#   description: ""
+#   authors: ""
+#   link:
+#     url:
+#     display: ""
+#   venue: ""
+#   highlight: 
+#   news2: ""
+
+- title: "Wasserstein Metric Attack on Person Re-Identification"
+  image: 
+  description: ""
+  authors: "Astha Verma, A V Subramanyam, Rajiv Ratn Shah"
+  link:
+    url:
+    display: ""
+  venue: "IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022"
+  highlight: 
+  news2: ""
+
+- title: "Contextual Active Learning for Person Re-Identification"
+  image: 
+  description: ""
+  authors: "Vineet Joshi, A V Subramanyam"
+  link:
+    url:
+    display: ""
+  venue: "IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022"
+  highlight: 
+  news2: ""
+
+
 - title: "IGSSTRCF: Importance Guided Sparse Spatio-Temporal Regularized Correlation Filters For Tracking"
   image: 
   description: ""
@@ -268,14 +302,3 @@
   highlight: 
   news2: ""
 
-
-# - title: ""
-#   image: 
-#   description: ""
-#   authors: ""
-#   link:
-#     url:
-#     display: ""
-#   venue: ""
-#   highlight: 
-#   news2: ""
