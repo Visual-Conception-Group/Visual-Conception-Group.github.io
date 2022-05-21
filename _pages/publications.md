@@ -58,7 +58,12 @@ permalink: /publications/
   <b> {{ publi.title }} </b> <br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.journal }} <br />
+  {% if publi.link.local == 1 %}
+  <a href="{{ site.url }}{{ site.baseurl }}/downloads/{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  {% endif %}
+  {% if publi.link.local == 0 %}
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  {% endif %}
   <!-- IF: {{ publi.IF }} -->
 
 {% endfor %}

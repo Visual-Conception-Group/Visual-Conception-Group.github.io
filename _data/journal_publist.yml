@@ -13,8 +13,9 @@
   description: ""
   authors: "A V Subramanyam"
   link:
-    url:
-    display: 
+    local: 1
+    url: sinkhorn_attack.pdf
+    display: Download here..
   journal: "IEEE Transactions on Image Processing, 2022"
   IF: ""
   highlight: 1
@@ -25,6 +26,7 @@
   description: ""
   authors: "A. Verma, A V Subramanyam, Z. Weng, S. Satoh, R. Shah"
   link:
+    local: 0
     url:
     display: 10.1109/TMM.2021.3126404
   journal: "IEEE Transactions on Multimedia"
@@ -38,6 +40,7 @@
   description: ""
   authors: "M. Jain, A. Tyagi, A V Subramanyam, S. Denman, C. Fookes and S. Sridharan"
   link:
+    local: 0
     url:
     display: 10.1109/TCSVT.2021.3063144
   journal: "IEEE Transactions on Circuits and Systems for Video Technology"
@@ -50,6 +53,7 @@
   description: ""
   authors: "S. Chandhok, H. Joshi, A V Subramanyam and S. Darak"
   link:
+    local: 0
     url: https://doi.org/10.1007/s11276-021-02765-1
     display: https://doi.org/10.1007/s11276-021-02765-1
   journal: "Wireless Networks, 27, 4727-4746, 2021"
@@ -62,6 +66,7 @@
   description: ""
   authors: "M. Jain, A V Subramanyam, S. Denman, C. Fookes and S. Sridharan"
   link:
+    local: 0
     url: https://doi.org/10.1016/j.cviu.2020.102935
     display: "https://doi.org/10.1016/j.cviu.2020.102935"
   journal: "Computer Vision and Image Understanding, vol. 195, 2020"
@@ -74,6 +79,7 @@
   description: ""
   authors: "K. Kansal, A.V. Subramanyam, Z. Weng and S. Satoh"
   link:
+    local: 0
     url:
     display: "10.1109/TCSVT.2019.2963721"
   journal: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 10, pp. 3422-3432, Oct. 2020"
@@ -86,6 +92,7 @@
   description: ""
   authors: "S. Sharma, H. Ravi, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "https://doi.org/10.1016/j.jvcir.2019.102682"
   journal: "Journal of Visual Communication and Image Representation, vol. 66, 2019"
@@ -98,6 +105,7 @@
   description: ""
   authors: "A. Mehrish, P. Singh, P. Jain, A.V. Subramanyam, M. Kankanhalli"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/TCSVT.2019.2929561"
   journal: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 9, pp. 3000-3014, Sept. 2020"
@@ -110,6 +118,7 @@
   description: ""
   authors: "K. Kansal, A.V. Subramanyam, D. Prasad"
   link:
+    local: 0
     url:
     display: "DOI: 10.1117/1.JEI.28.2.023036"
   journal: "Journal of Electronic Imaging, vol. 28, no. 2, 2019"
@@ -122,6 +131,7 @@
   description: ""
   authors: "K. Kansal, A.V. Subramanyam, M. Kankanhalli"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ACCESS.2019.2908344"
   journal: "IEEE Access, vol. 7, pp. 40856-40865, 2019"
@@ -134,6 +144,7 @@
   description: ""
   authors: "A. Mehrish, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ACCESS.2019.2901345"
   journal: "IEEE Access, vol. 7, pp. 27183-27195, 2019"
@@ -146,6 +157,7 @@
   description: ""
   authors: "K. Saini, K. Kansal, A.V. Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1117/1.JEI.28.2.023003"
   journal: "JEI, vol. 28, no. 2, 2019"
@@ -158,6 +170,7 @@
   description: ""
   authors: "D. Sitani, A.V. Subramanyam, A. Majumdar"
   link:
+    local: 0
     url:
     display: "DOI: 10.1117/1.JEI.28.1.013004"
   journal: "Journal of Electronic Imaging, vol. 28, no. 1, 2019"
@@ -170,6 +183,7 @@
   description: ""
   authors: "A.V. Subramanyam, R. Ahuja, V. Gupta"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/LSP.2018.2882301"
   journal: "IEEE Signal Processing Letters, vol. 26, no. 1, pp. 154-158, 2019"
@@ -182,6 +196,7 @@
   description: ""
   authors: "A. Mehrish, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1016/j.image.2018.04.013"
   journal: "Signal Processing: Image Communication, vol. 66, pp. 30-41, 2018"
@@ -194,6 +209,7 @@
   description: ""
   authors: "A. Mehrish, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/LSP.2016.2549059"
   journal: "IEEE Signal Processing Letters, vol. 23, no. 5, pp. 693-697, 2016"
@@ -206,6 +222,7 @@
   description: ""
   authors: "H. Ravi, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1145/2857069"
   journal: "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 12, no. 3, pp. 39:1-39:23, 2016"
@@ -218,6 +235,7 @@
   description: ""
   authors: "H. Ravi, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/LSP.2015.2509477"
   journal: "IEEE Signal Processing Letters, vol. 23, no. 2, pp. 212-216, 2015"
@@ -230,6 +248,7 @@
   description: ""
   authors: "A.V. Subramanyam, S. Emmanuel and M.S. Kankanhalli"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/TMM.2011.2181342"
   journal: "IEEE Transactions on Multimedia, vol. 14, no. 3, pp. 703-716, 2011"
@@ -242,6 +261,7 @@
   description: ""
   authors: "A.V. Subramanyam and S. Emmanuel"
   link:
+    local: 0
     url: https://doi.org/10.1007/s11042-012-1272-0
     display: "https://doi.org/10.1007/s11042-012-1272-0"
   journal: "Multimedia Tools and Applications, vol. 71, no. 3, pp. 1311-1331, 2014"
@@ -254,6 +274,7 @@
   description: ""
   authors: "A.V. Subramanyam and S. Emmanuel"
   link:
+    local: 0
     url: https://doi.org/10.1007/978-3-642-24556-5_3
     display: "https://doi.org/10.1007/978-3-642-24556-5_3"
   journal: "Transactions on Data Hiding and Multimedia Security, LNCS vol. 6730, pp. 37-57, 2011"
@@ -266,6 +287,7 @@
   description: ""
   authors: "T. Thomas, S. Emmanuel, A.V. Subramanyam and M.S. Kankanhalli"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/TIFS.2009.2033229"
   journal: "IEEE Transactions on Information Forensics and Security, vol. 4, no. 4, pp. 758-767, 2009"
@@ -278,6 +300,7 @@
 #   description: ""
 #   authors: ""
 #   link:
+    # local: 0
 #     url:
 #     display: ""
 #   journal: ""
