@@ -9,11 +9,24 @@
 #   highlight: 
 #   news2: ""
 
+- title: "Barycentric Defense"
+  image:
+  description: ""
+  authors: "A V Subramanyam, Abhigyan Raj"
+  link:
+    local: 1
+    url: Barycenter_Defense.pdf
+    display: "Download here.."
+  venue: "IEEE International Conference on Image Processing (ICIP), 2022"
+  highlights:
+  news2: ""
+
 - title: "Wasserstein Metric Attack on Person Re-Identification"
   image: 
   description: ""
   authors: "Astha Verma, A V Subramanyam, Rajiv Ratn Shah"
   link:
+    local: 0
     url:
     display: ""
   venue: "IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022"
@@ -25,6 +38,7 @@
   description: ""
   authors: "Vineet Joshi, A V Subramanyam"
   link:
+    local: 0
     url:
     display: ""
   venue: "IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022"
@@ -37,6 +51,7 @@
   description: ""
   authors: "Monika Jain, Arjun Tyagi, A V Subramanyam, Simon Denman, Clinton Fookes and Sridha Sridharan"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/WACV48630.2021.00282"
   venue: "In Proc. IEEE Winter Conference on Applications of Computer Vision (WACV), 2021, pp. 2774-2783,"
@@ -48,6 +63,7 @@
   description: ""
   authors: "Kajal Kansal, Harsh Jain, A V Subramanyam"
   link:
+    local: 0
     url:
     display: ""
   venue: "IEEE International Conference on Systems, Man and Cybernetics, 2021"
@@ -59,6 +75,7 @@
   description: ""
   authors: "Sonu Gupta, Deepak Srivatsav, A V Subramanyam, Ponnurangam Kumaraguru"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICIP.2019.8803732 (Poster)"
   venue: "In Proc. IEEE International Conference on Image Processing (ICIP), 2019, pp. 1600-1604"
@@ -70,6 +87,7 @@
   description: ""
   authors: "Kajal Kansal, A V Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/BigMM.2019.00-15 (Oral)"
   venue: "In Proc. IEEE International Conference on Multimedia Big Data (BigMM), 2019, pp. 257-261"
@@ -81,6 +99,7 @@
   description: ""
   authors: "Anurag Singh, Lakshay Virmani, A V Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/BigMM.2019.00-46 (Oral)"
   venue: "In Proc. IEEE International Conference on Multimedia Big Data (BigMM), 2019, pp. 21-29"
@@ -92,6 +111,7 @@
   description: ""
   authors: "S. Chandok, H. Joshi, S. Darak, and A.V. Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/COMSNETS.2019.8711345 (Poster)"
   venue: "In Proc. International Conference on Communication Systems &amp; Networks (COMSNETS), 2019"
@@ -103,6 +123,7 @@
   description: ""
   authors: "M. Shah, A. V. Subramanyam and G. Arora"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/IGARSS47720.2021.9553772"
   venue: "IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 6650-6653"
@@ -114,6 +135,7 @@
   description: ""
   authors: "K. Kansal, A. Subramanyam, Z. Wang and S. Satoh"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICMEW53276.2021.9455960"
   venue: "Proc. IEEE International Conference on Multimedia & Expo Workshops (ICMEW), Shenzhen, China, 2021 pp. 1-6"
@@ -125,6 +147,7 @@
   description: ""
   authors: "K. Kansal, and A.V. Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/SMC.2018.00164 (Oral)"
   venue: "Proc. IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018, pp. 923-928"
@@ -136,6 +159,7 @@
   description: ""
   authors: "R. Banerjee, G. Chikara, V. Naik, A.V. Subramanyam, and K. Dey"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/COMSNETS.2018.8328214 (Oral)"
   venue: "Proc. International Conference on Communication Systems &amp; Networks (COMSNETS), 2018, pp. 320-327"
@@ -147,6 +171,7 @@
   description: ""
   authors: "S. Goel, S. Ahuja, A.V. Subramanyam, and P. Kumaragurum"
   link:
+    local: 0
     url:
     display: "DOI: 10.1145/3123266.3123407 (Poster)"
   venue: "Proc. ACM International Conference on Multimedia (ACM MM), 2017, pp. 1434-1442"
@@ -158,6 +183,7 @@
   description: ""
   authors: "A. Mehrish, A.V. Subramanyam, and M.S. Kankanhalli"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICME.2017.8019488 (Poster)"
   venue: "Proc. IEEE International Conference on Multimedia and Expo (ICME), 2017, pp. 685-690"
@@ -169,6 +195,7 @@
   description: ""
   authors: "D. Mullick, A.V. Subramanyam, and S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICIP.2017.8297099 (Poster)"
   venue: "Proc. IEEE International Conference on Image Processing (ICIP), 2017, pp. 4327-4331"
@@ -180,6 +207,7 @@
   description: ""
   authors: "S. Sharma, A.V. Subramanyam, M. Jain, A. Mehrish and S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/WIFS.2016.7823571 (Oral)"
   venue: "Proc. IEEE International Workshop on Information Forensics and Security (WIFS), 2016. Pages: 6"
@@ -191,6 +219,7 @@
   description: ""
   authors: "S. Goel, N. Sachdeva, P. Kumaraguru, A.V. Subramanyam and D. Gupta"
   link:
+    local: 0
     url:
     display: "DOI: https://doi.org/10.1007/978-3-319-47880-7_13 (Poster)"
   venue: "Proc. International Conference on Social Informatics (SocInfo), 2016, pp. 206-223"
@@ -203,6 +232,7 @@
   description: ""
   authors: "M. Jain, S. Deb, A.V. Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/MMSP.2016.7813389 (Poster)"
   venue: "Proc. IEEE International Workshop on Multimedia Signal Processing (MMSP), 2016. Pages: 5"
@@ -214,6 +244,7 @@
   description: ""
   authors: "H. Ravi, A.V. Subramanyam, S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICIP.2015.7350986 (Oral)"
   venue: "IEEE International Conference on Image Processing (ICIP), Quebec City, Canada, 2015, pp. 1180-1184"
@@ -225,6 +256,7 @@
   description: ""
   authors: "H. Ravi, A.V. Subramanyam, Gaurav Gupta and B. Avinash Kumar"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICIP.2014.7026083 (Poster)"
   venue: "IEEE International Conference on Image Processing (ICIP), Paris, France, 2014, pp. 5353-5356"
@@ -236,6 +268,7 @@
   description: ""
   authors: "M. Siddula, S. Sanadhya and A.V. Subramanyam"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/SMC.2013.268"
   venue: "IEEE International Conference on Systems, Man and Cybernetics (SMC), Manchester, UK, 2013, pp. 1554-1559"
@@ -247,6 +280,7 @@
   description: ""
   authors: "A.V. Subramanyam and S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICASSP.2013.6638216 (Poster)"
   venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Vancouver, Canada, 2013, pp. 3038-3042"
@@ -259,6 +293,7 @@
   description: ""
   authors: "A.V. Subramanyam and S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/MMSP.2012.6343421 (Poster)"
   venue: "IEEE International Workshop on Multimedia Signal Processing (MMSP), Banff, Canada, 2012, pp. 89-94"
@@ -271,6 +306,7 @@
   description: ""
   authors: "A.V. Subramanyam and S. Emmanuel"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICSMC.2012.6378184"
   venue: "IEEE International Conference on Systems, Man and Cybernetics (SMC), Seoul, South Korea, 2012, pp. 2867-2872"
@@ -284,6 +320,7 @@
   description: ""
   authors: "A.V. Subramanyam and S. Emmanuel"
   link:
+    local: 0
     url:
     display: ""
   venue: "International Conference on Signal Processing and Multimedia Applications(SIGMAP), Seville, Spain, 2011"
@@ -296,6 +333,7 @@
   description: ""
   authors: "A.V. Subramanyam, S. Emmanuel and M.S. Kankanhalli"
   link:
+    local: 0
     url:
     display: "DOI: 10.1109/ICME.2010.5583571 (Poster)"
   venue: "IEEE International Conference Multimedia and Expo (ICME), Singapore, 2010, pp. 1315-1320"

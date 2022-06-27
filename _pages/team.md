@@ -228,7 +228,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 </div>
 {% endif %}
 
-## UG Thesis
+## UG
 
 {% assign number_printed = 0 %}
 {% for member in site.data.current_btech %}
