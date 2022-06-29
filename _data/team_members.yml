@@ -1,9 +1,9 @@
-- name: Monika Jain
-  photo: monika.jpeg
-  info: PhD Student, started July 2016
-  email: xyz@email.com
-  number_educ: 1
-  education1: Joint PhD with QUT, Brisbane, with Prof Shridharan and Prof Fookes
+# - name: Monika Jain
+#   photo: monika.jpeg
+#   info: PhD Student, started July 2016
+#   email: xyz@email.com
+#   number_educ: 1
+#   education1: Joint PhD with QUT, Brisbane, with Prof Shridharan and Prof Fookes
 
 - name: Astha Verma
   photo: astha.jpeg

@@ -156,7 +156,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> <em> Thesis: </em> {{ member.education1 }} </li>
+  <li> {{ member.education1 }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
@@ -228,7 +228,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 </div>
 {% endif %}
 
-## UG
+## Bachelor Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.current_btech %}
@@ -242,7 +242,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
-  <li><em> Thesis: </em> {{ member.thesis }} </li>
+  <li> {{ member.thesis }} </li>
   </ul>
 </div>
 
@@ -259,7 +259,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 </div>
 {% endif %}
 
-## Former MTech Thesis Students
+## Former MTech Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_mtech %}
@@ -273,7 +273,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
-  <li><em> Thesis: </em> {{ member.thesis }} </li>
+  <li> {{ member.thesis }} </li>
   </ul>
 </div>
 
@@ -290,7 +290,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 </div>
 {% endif %}
 
-## Former BTech Thesis students
+## Former BTech students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_btech %}
@@ -304,7 +304,7 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
-  <li> <em> Thesis: </em> {{ member.thesis }} </li>
+  <li> {{ member.thesis }} </li>
   </ul>
 </div>
 

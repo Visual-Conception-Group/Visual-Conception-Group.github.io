@@ -1,3 +1,14 @@
+- name: Monika Jain
+  photo: monika.jpeg
+  info: PhD Student
+  duration: "Graduated in 2022, Joint PhD with QUT" #, Brisbane, with Prof Shridharan and Prof Fookes
+  area: Computer Vision and Machine Learning
+  title: Regularized Ensemble Correlation Filter Tracking
+  email: xyz@email.com
+  number_educ: 3
+  education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
+  education2: Masters Institute
+
 - name: Ambuj Mehrish
   photo: ambuj.jpeg
   info: PhD Student

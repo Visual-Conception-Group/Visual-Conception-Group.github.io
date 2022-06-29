@@ -10,14 +10,14 @@
 
 - name: Anup Jha
   number_educ: 1
-  education1: "Cross-modal Object Search"
+  education1: "topic: Cross-modal Object Search"
 
 - name: Manish Jethmalani, Archit Arora
   photo: bio-photo.jpg
   info: Master student
   email: xyz@email.com
   number_educ: 1
-  education1: "Guided Video Diarization"
+  education1: "topic: Guided Video Diarization"
 
 - name: Dipankar Sarkar
   photo: bio-photo.jpg

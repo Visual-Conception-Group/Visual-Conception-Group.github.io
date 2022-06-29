@@ -1,22 +1,22 @@
 # - name: Dibyendu Roy
 #   thesis: 
 - name: Biman Giri
-  thesis: "Unsupervised Vehicle Synthesis and Re-Identification"
+  thesis: "thesis: Unsupervised Vehicle Synthesis and Re-Identification"
 
 - name: Harsh Kumar Jain
-  thesis: Pose Disentangled Person Re-identification
+  thesis: "thesis: Pose Disentangled Person Re-identification"
 
 - name: Sagar Gupta
-  thesis: Unsupervised Cross Domain Human Image Synthesis for Person Re-identification
+  thesis: "thesis: Unsupervised Cross Domain Human Image Synthesis for Person Re-identification"
 
 - name: Arjun Tyagi
-  thesis: Channel Regularized Visual Object Tracking
+  thesis: "thesis: Channel Regularized Visual Object Tracking"
 
 - name: Divya Sitani
-  thesis: Visual Tracking using Analysis Dictionary Learning
+  thesis: "thesis: Visual Tracking using Analysis Dictionary Learning"
 
 - name: Shobhita Saxena
-  thesis: Video Inpainting Detection using Inconsistencies in Optical Flow
+  thesis: "thesis: Video Inpainting Detection using Inconsistencies in Optical Flow"
 
 # - name: Shah Meet Harshadbhai
 #   thesis: 
@@ -28,4 +28,4 @@
 #   thesis:
 
 - name: Shivani Mamodia
-  thesis: Post Silicon Validation using Regression
+  thesis: "thesis: Post Silicon Validation using Regression"

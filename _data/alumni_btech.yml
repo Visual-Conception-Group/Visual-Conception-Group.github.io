@@ -1,23 +1,23 @@
 - name: Kunal Saini
-  thesis: Airborne Visual Tracking and Re-identification
+  thesis: "thesis: Airborne Visual Tracking and Re-identification"
 
 - name: Mohammad Nayeem
-  thesis: Efficient Surveillance Video Compression using Dictionary Learning
+  thesis: "thesis: Efficient Surveillance Video Compression using Dictionary Learning"
 
 - name: Kunal Sharma and Vipin Chaudhary
-  thesis: Semi Dense Adversarial LSTM for Unsupervised Video Summarization
+  thesis: "thesis: Semi Dense Adversarial LSTM for Unsupervised Video Summarization"
 
 - name: Neelabhro Roy
-  thesis: Metric Learning for Object Recognition
+  thesis: "thesis: Metric Learning for Object Recognition"
 
 - name: Siddharth Dhawan
-  thesis: Unsupervised Domain Adaptation for Person Re-identification
+  thesis: "thesis: Unsupervised Domain Adaptation for Person Re-identification"
 
 - name: Priysha Aggarwal and Kshitiz Jain
-  thesis: Unsupervised Learning of Low Rank Subspace Projection using Graph Embedding
+  thesis: "thesis: Unsupervised Learning of Low Rank Subspace Projection using Graph Embedding"
 
 - name: Harsh Pathak and Shreedhar Govil
-  thesis: Deepfake Video Detection
+  thesis: "thesis: Deepfake Video Detection"
 
 # - name:
 #   thesis:
