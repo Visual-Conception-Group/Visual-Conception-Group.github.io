@@ -81,5 +81,6 @@ permalink: /publications/
   {% if publi.link.local == 0 %}
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
   {% endif %}
+  <a href="{{ publi.link.code }}">{{ publi.link.code_display }} </a>
 
 {% endfor %}
