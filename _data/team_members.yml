@@ -20,6 +20,13 @@
   number_educ: 1
   education1: BTech, IP University Delhi
 
+- name: Rameshwar Mishra
+  photo: rameshwar.jpeg
+  info: PhD Student, started July 2022
+  email: xyz@email.com
+  number_educ: 1
+  education1: BTech, IIIT Delhi
+
 - name: Mohammad Ali Jauhar
   photo: jauhar.jpg
   info: Research Assistant
