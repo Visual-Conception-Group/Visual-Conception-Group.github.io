@@ -8,6 +8,18 @@
 #   highlight: 1
 #   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
+- title: "Meta Generative Attack on Person Reidentification"
+  image:
+  description: ""
+  authors: "A V Subramanyam"
+  journal: "IEEE Transactions on Circuits and Systems for Video Technology, 2023"
+  
+- title: "Circularly Polarized Fabry-Pèrot Cavity Sensing Antenna Design using Generative Model"
+  image: 
+  description: ""
+  authors: "Kainat Yasmeen, K V Mishra, A V Subramanyam and S S Ram"
+  journal: "IEEE Sensors Letters, 2023"
+
 - title: "Sinkhorn Adversarial Attack and Defense"
   image: 
   description: ""
