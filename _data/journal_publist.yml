@@ -12,12 +12,20 @@
   image:
   description: ""
   authors: "A V Subramanyam"
+  link:
+    local: 0
+    url: https://doi.org/10.48550/arXiv.2301.06286
+    display: https://doi.org/10.48550/arXiv.2301.06286
   journal: "IEEE Transactions on Circuits and Systems for Video Technology, 2023"
   
 - title: "Circularly Polarized Fabry-Pèrot Cavity Sensing Antenna Design using Generative Model"
   image: 
   description: ""
   authors: "Kainat Yasmeen, K V Mishra, A V Subramanyam and S S Ram"
+  link:
+    local: 0
+    url: https://doi.org/10.48550/arXiv.2209.14550
+    display: https://doi.org/10.48550/arXiv.2209.14550
   journal: "IEEE Sensors Letters, 2023"
 
 - title: "Sinkhorn Adversarial Attack and Defense"
