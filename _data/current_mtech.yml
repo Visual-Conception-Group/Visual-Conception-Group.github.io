@@ -8,23 +8,12 @@
 #  education3:
 #  education4:
 
-- name: Anup Jha
-  number_educ: 1
-  education1: "Topic: Cross-modal Object Search"
-
-- name: Manish Jethmalani, Archit Arora
-  photo: bio-photo.jpg
+- name: Abu Osama Siddiqui
+  photo: 
   info: Master student
-  email: xyz@email.com
+  email: osama22006@iiitd.ac.in
   number_educ: 1
-  education1: "Topic: Guided Video Diarization"
-
-- name: Dipankar Sarkar
-  photo: bio-photo.jpg
-  info: Master student
-  email: xyz@email.com
-  number_educ: 0
-  education1: 
+  education1: "Topic: "
 
 
 
