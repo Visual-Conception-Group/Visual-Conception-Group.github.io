@@ -12,6 +12,9 @@ permalink: /sponsored_projects/
 
   <b>{{ project.title }}</b> <br />
   <em>{{ project.duration }} </em><br />{{ project.description }}
+  {% if project.demolink != ""%}
+  {{ project.demolink }}
+  {% endif %}
 
 {% endfor %}
 

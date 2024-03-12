@@ -193,6 +193,36 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 </div>
 {% endif %}
 
+## Bachelor Students
+
+{% assign number_printed = 0 %}
+{% for member in site.data.current_btech %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <ul style="overflow: hidden">
+  <li> {{ member.thesis }} </li>
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ## Former PhD Students
 
@@ -212,37 +242,6 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
 
   <ul style="overflow: hidden">
 
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Bachelor Students
-
-{% assign number_printed = 0 %}
-{% for member in site.data.current_btech %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <ul style="overflow: hidden">
-  <li> {{ member.thesis }} </li>
   </ul>
 </div>
 
