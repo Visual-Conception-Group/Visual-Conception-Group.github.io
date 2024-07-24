@@ -5,29 +5,21 @@
 #   number_educ: 1
 #   education1: Joint PhD with QUT, Brisbane, with Prof Shridharan and Prof Fookes
 
-- name: Astha Verma
-  photo: astha.jpeg
-  info: PhD Student, started July 2018
-  email: xyz@email.com
-  number_educ: 2
-  education1: Co-supervised by Dr Rajiv Ratn Shah, IIIT Delhi
-  education2: MTech, NIT Delhi
-
 - name: <a href="https://www.himanshu.phd">Himanshu Singh</a>
   photo: himanshu.jpg
   info: PhD Student, started August 2020
   email: himanshus@iiitd.ac.in
   number_educ: 1
-  education1: BTech(CSE), IP University, Delhi
+  education1: BTech(CSE), GGSIP University, Delhi
 
-- name: Rameshwar Mishra
+- name: <a href="https://in.linkedin.com/in/rameshwar-mishra-b53057148">Rameshwar Mishra</a>
   photo: rameshwar.jpeg
   info: PhD Student, started July 2022
   email: xyz@email.com
   number_educ: 1
   education1: BTech, IIIT Delhi
 
-- name: Nilanjana Chatterjee
+- name: <a href="https://in.linkedin.com/in/chatterjeenilanjana">Nilanjana Chatterjee</a>
   photo: nilanjana.jpeg
   info: PhD Student, started January 2023
   email: nilanjanac@iiitd.ac.in

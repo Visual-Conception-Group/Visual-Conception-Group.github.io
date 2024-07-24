@@ -9,6 +9,33 @@
 #   highlight: 
 #   news2: ""
 
+- title: "Layout Free Scene Graph to Image Generation"
+  image:
+  description: ""
+  authors: "Rameshwar Mishra, A V Subramanyam"
+  link:
+    local: 1
+    display: "Paper"
+    url: "BMVC2024__Copy_.pdf"
+    code: https://github.com/RameshwarCV/GANDiffuCLIP
+    code_display: "Code"
+  venue: "The British Machine Vision Conference (BMVC), 2024"
+  highlights:
+  news2: ""
+
+- title: "Language Guided Adversarial Purification"
+  image:
+  description: ""
+  authors: "Himanshu Singh, A V Subramanyam"
+  link:
+    local: 0
+    display: "https://doi.org/10.1109/icassp48485.2024.10446676"
+    code: https://github.com/Visual-Conception-Group/LGAP
+    code_display: "Code."
+  venue: "2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024"
+  highlights:
+  news2: ""
+
 - title: "Barycentric Defense"
   image:
   description: ""
@@ -16,9 +43,9 @@
   link:
     local: 1
     url: Barycenter_Defense.pdf
-    display: "Download here.."
+    display: "Download here."
     code: https://github.com/abhigyan13/Barycentric-Defense
-    code_display: "Source Code.."
+    code_display: "Code"
   venue: "IEEE International Conference on Image Processing (ICIP), 2022"
   highlights:
   news2: ""

@@ -1,4 +1,14 @@
-- name: Monika Jain
+- name: <a href="https://in.linkedin.com/in/astha-verma-b08527232">Astha Verma</a>
+  photo: astha.jpeg
+  info: PostDoc at NUS
+  duration: "Graduated in 2023, Postdoctrol Fellow at NUS"
+  email: xyz@email.com
+  title: Generative and Adversarial Learning for Object Recognition
+  number_educ: 2
+  education1: Co-supervised by Dr Rajiv Ratn Shah, IIIT Delhi
+  education2: MTech, NIT Delhi
+
+- name: <a href="https://in.linkedin.com/in/monikajain-qut">Monika Jain</a>
   photo: monika.jpeg
   info: PhD Student
   duration: "Graduated in 2022, Joint PhD with QUT" #, Brisbane, with Prof Shridharan and Prof Fookes
@@ -9,23 +19,23 @@
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
   education2: Masters Institute
 
-- name: Ambuj Mehrish
-  photo: ambuj.jpeg
+- name: <a href="https://sites.google.com/iiitd.ac.in/kajalk/">Kajal Kansal</a>
+  photo: kajal.jpeg
   info: PhD Student
-  duration: Graduated in 2020, Now doing Postdoc at SUTD, Singapore
-  area: Image Processing
-  title: Estimation and Concealment of Forensic Multimedia Signatures
+  duration: Graduated in 2021, Postdoctrol Fellow at NUS
+  area: Computer Vision and Machine Learning
+  title: Modality Guided Representation Learning for Person Re-identification
   email: xyz@email.com
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
   education2: Masters Institute
 
-- name: Kajal Kansal
-  photo: kajal.jpeg
+- name: <a href="https://sg.linkedin.com/in/ambuj-mehrish-159a0417b">Ambuj Mehrish</a>
+  photo: ambuj.jpeg
   info: PhD Student
-  duration: Graduated in 2021, Now doing Postdoc at NUS, Singapore
-  area: Computer Vision and Machine Learning
-  title: Modality Guided Representation Learning for Person Re-identification
+  duration: Graduated in 2020, Postdoctrol Fellow at SUTD
+  area: Image Processing
+  title: Estimation and Concealment of Forensic Multimedia Signatures
   email: xyz@email.com
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
