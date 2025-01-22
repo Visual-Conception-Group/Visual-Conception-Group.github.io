@@ -239,6 +239,8 @@ Jump to [Faculty](#faculty), [Researchers](#researchers), [Master Students](#mas
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.duration }} <br> <em> Thesis: </em> {{ member.title }} <br />
+  <em> Current: </em> {{ member.current }}
+  
 
   <ul style="overflow: hidden">
 

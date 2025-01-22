@@ -1,12 +1,13 @@
 - name: <a href="https://in.linkedin.com/in/astha-verma-b08527232">Astha Verma</a>
   photo: astha.jpeg
-  info: PostDoc at NUS
-  duration: "Graduated in 2023, Postdoctrol Fellow at NUS"
+  info: PhD Student
+  duration: "Graduated in 2023"
   email: xyz@email.com
   title: Generative and Adversarial Learning for Object Recognition
   number_educ: 2
   education1: Co-supervised by Dr Rajiv Ratn Shah, IIIT Delhi
   education2: MTech, NIT Delhi
+  current: Research Fellow at Singapore Institute of Technology
 
 - name: <a href="https://in.linkedin.com/in/monikajain-qut">Monika Jain</a>
   photo: monika.jpeg
@@ -18,6 +19,7 @@
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
   education2: Masters Institute
+  current: Computer Vision Engineer III, Stats Perform
 
 - name: <a href="https://sites.google.com/iiitd.ac.in/kajalk/">Kajal Kansal</a>
   photo: kajal.jpeg
@@ -29,6 +31,7 @@
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
   education2: Masters Institute
+  current: Assistant Professor, Department of Computer Science, BITS Pilani Dubai Campus, UAE
 
 - name: <a href="https://sg.linkedin.com/in/ambuj-mehrish-159a0417b">Ambuj Mehrish</a>
   photo: ambuj.jpeg
@@ -40,4 +43,5 @@
   number_educ: 3
   education1: PhD <a href="https://www.iiitd.ac.in">IIIT Delhi</a>
   education2: Masters Institute
+  current: Research Fellow at Singapore University of Technology and Design
 
